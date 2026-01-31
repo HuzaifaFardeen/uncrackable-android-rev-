@@ -1,2 +1,2 @@
 # uncrackable-android-rev-
-explaining how i did reverse negineering challenges on android 16
+Reverse negineering challenges on android 16
